@@ -19,7 +19,7 @@ function multiply() {
  
   var b = givenString.split(" ");
   console.log(`Total words in string is: ${b.length}`);
- // var c=
+ 
   console.log(`division  is:${a/b.length}`);
   console.log(`multipication is:${a*b.length}`);
 }
