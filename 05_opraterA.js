@@ -25,4 +25,4 @@ function multiply() {
 }
 
 
-multiply();
+gradeSystem(47);

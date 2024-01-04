@@ -37,6 +37,7 @@ var stringlenght = function (valueString) {
 };
 stringlenght("JavaScript-ES6");
 
+
 console.log("************** Fourth step******************");
 var stringStart = function (word) {
   if (word.startsWith("Java")) {
